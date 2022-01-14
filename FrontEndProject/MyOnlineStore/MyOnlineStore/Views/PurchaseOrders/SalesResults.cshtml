@@ -1,0 +1,11 @@
+﻿@model ShopModels.Models.ProductsSoldResult
+
+@if (Model.OrderCompleted)
+{
+    <h1>Order completed successfully </h1>
+}
+else
+{
+    <h1 style=" color: red">There is not enough stock for requested product</h1>
+}
+

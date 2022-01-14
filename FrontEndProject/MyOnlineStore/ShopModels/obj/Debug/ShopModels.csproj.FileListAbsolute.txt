@@ -1,0 +1,6 @@
+C:\Users\mwank\source\repos\MyOnlineStore\ShopModels\bin\Debug\ShopModels.dll
+C:\Users\mwank\source\repos\MyOnlineStore\ShopModels\bin\Debug\ShopModels.pdb
+C:\Users\mwank\source\repos\MyOnlineStore\ShopModels\obj\Debug\ShopModels.csprojAssemblyReference.cache
+C:\Users\mwank\source\repos\MyOnlineStore\ShopModels\obj\Debug\ShopModels.csproj.CoreCompileInputs.cache
+C:\Users\mwank\source\repos\MyOnlineStore\ShopModels\obj\Debug\ShopModels.dll
+C:\Users\mwank\source\repos\MyOnlineStore\ShopModels\obj\Debug\ShopModels.pdb

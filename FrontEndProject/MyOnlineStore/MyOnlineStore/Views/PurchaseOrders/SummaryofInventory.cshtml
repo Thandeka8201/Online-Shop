@@ -1,0 +1,41 @@
+﻿@model IEnumerable<ShopModels.Models.InventoryItemSummary>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Type)
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </th>
+        <th>
+
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    if (item!=null && !string.IsNullOrEmpty(item.Type))
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type)
+            </td>
+            @*<td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                @Html.ActionLink("Open InventoryItem Summary", "InventoryItemSummary", new { id=item.Id})
+            </td>
+        </tr>
+    }
+    
+}
+
+</table>

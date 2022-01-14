@@ -1,0 +1,9 @@
+C:\Users\mwank\source\repos\MyOnlineStore\ShopBackEnd\bin\Debug\ShopBackEnd.dll
+C:\Users\mwank\source\repos\MyOnlineStore\ShopBackEnd\bin\Debug\ShopBackEnd.pdb
+C:\Users\mwank\source\repos\MyOnlineStore\ShopBackEnd\bin\Debug\ShopModels.dll
+C:\Users\mwank\source\repos\MyOnlineStore\ShopBackEnd\bin\Debug\ShopModels.pdb
+C:\Users\mwank\source\repos\MyOnlineStore\ShopBackEnd\obj\Debug\ShopBackEnd.csprojAssemblyReference.cache
+C:\Users\mwank\source\repos\MyOnlineStore\ShopBackEnd\obj\Debug\ShopBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\mwank\source\repos\MyOnlineStore\ShopBackEnd\obj\Debug\ShopBackEnd.csproj.CopyComplete
+C:\Users\mwank\source\repos\MyOnlineStore\ShopBackEnd\obj\Debug\ShopBackEnd.dll
+C:\Users\mwank\source\repos\MyOnlineStore\ShopBackEnd\obj\Debug\ShopBackEnd.pdb
